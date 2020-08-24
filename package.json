@@ -41,7 +41,7 @@
     "debug": "^3.0.1",
     "es6-promise": "^4.1.1",
     "raw-body": "^2.3.0",
-    "follow-redirects": "^1.13.0",
+    "follow-redirects": "^1.13.0"
   },
   "contributors": [
     {
